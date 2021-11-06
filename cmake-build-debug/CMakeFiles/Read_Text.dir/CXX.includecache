@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asus/CLionProjects/Read_Text/Text_Preprocessor.h
+iostream
+-
+string
+-
+fstream
+-
+
+C:/Users/asus/CLionProjects/Read_Text/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+Text_Preprocessor.h
+C:/Users/asus/CLionProjects/Read_Text/Text_Preprocessor.h
+
